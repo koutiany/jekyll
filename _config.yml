@@ -2,4 +2,4 @@ title: [learn from Brian]
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-slate
+remote_theme: mmistakes/minimal-mistakes
